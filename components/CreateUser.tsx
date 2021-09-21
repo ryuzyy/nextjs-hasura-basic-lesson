@@ -1,6 +1,6 @@
 import { VFC } from 'react'
 import { useCreateForm } from '../hooks/useCreateForm'
-import { Child } from '../pages/Child'
+import { Child } from './Child'
 
 export const CreateUser: VFC = () => {
   const {
